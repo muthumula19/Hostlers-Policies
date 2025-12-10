@@ -293,3 +293,7 @@ By downloading, installing, or using Hostler, you acknowledge that you have read
 
 
 *This Privacy Policy is governed by the laws of India.*
+
+
+Request that their account and associated data is deleted
+https://docs.google.com/forms/d/19pV_kxXA76E9bFtx6EBQifGlPPUwxVjeQkk8M-nAofA/edit?pli=1
