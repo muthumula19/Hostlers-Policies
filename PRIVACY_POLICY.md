@@ -1,14 +1,16 @@
-# Privacy Policy for Hostler
+# Privacy Policy for HestiaStay
 
-**Last Updated: December 3, 2025**
+**Last Updated: February 17, 2026**
 
-**Effective Date: December 3, 2025**
+**Effective Date: February 17, 2026**
 
 ---
 
 ## 1. Introduction
 
-Welcome to Hostler ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("Hostler" or the "App"). Hostler is a hostel management platform that connects hostel owners with guests, facilitating room bookings, rent payments, and accommodation management.
+Welcome to HestiaStay. HestiaStay is a brand owned and operated by **HEETIA TECHNOLOGIES LLP** ("Company," "we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and website ("HestiaStay" or the "App"). HestiaStay is a hostel management platform that connects hostel owners with guests, facilitating room bookings, rent payments, and accommodation management.
+
+This Privacy Policy is published in compliance with the **Digital Personal Data Protection Act, 2023 (DPDPA)**, the **Information Technology Act, 2000**, and the **Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011**.
 
 Please read this Privacy Policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy. If you do not agree with the terms of this Privacy Policy, please do not access the App.
 
@@ -169,19 +171,37 @@ In the event of a merger, acquisition, or sale of assets, your information may b
 ### 5.2 Security Measures
 
 We implement industry-standard security measures including:
-- HTTPS encryption for all data transmission
-- Secure token-based authentication (JWT)
-- Encrypted storage for sensitive data (passwords, tokens)
+
+| Type | Standard |
+|------|----------|
+| Data in Transit | TLS 1.2 or higher |
+| Data at Rest | AES-256 encryption |
+| Passwords | bcrypt hashing |
+| Authentication | Secure token-based (JWT) |
+
+Additional measures:
 - Rate limiting to prevent brute force attacks
 - Regular security audits and updates
 - Automatic session timeout for inactive users
+- Role-based access control
 
 ### 5.3 Data Retention
 
-- Active account data is retained while your account is active
-- Payment records are retained for 7 years for tax and legal compliance
-- Deleted accounts are permanently removed within 30 days
-- Backup data is purged within 90 days of account deletion
+| Data Type | Retention Period |
+|-----------|------------------|
+| Account and profile data | Active tenancy + 6 months |
+| Payment records | 2 years (for tax and legal compliance) |
+| Uploaded verification documents | Deleted on user request, or within 6 months after checkout |
+| Deleted accounts | Permanently removed within 30 days |
+| Backup data | Purged within 90 days of account deletion |
+
+### 5.4 Data Breach Notification
+
+In the event of a data breach involving your personal data or sensitive documents, HEETIA TECHNOLOGIES LLP will:
+- Notify affected users within **72 hours** via registered email and in-app message
+- Provide details of the breach, potential impact, and remedial steps
+- Report the breach to the relevant authorities as required under DPDPA 2023
+- Take immediate corrective measures to contain and remediate the breach
 
 ---
 
@@ -218,7 +238,9 @@ You can manage your notification preferences within the App settings.
 
 ## 7. Children's Privacy
 
-Hostler is not intended for children under the age of 18. We do not knowingly collect personal information from children under 18. If you believe we have collected information from a child under 18, please contact us immediately, and we will take steps to delete such information.
+HestiaStay is primarily intended for users aged 18 and above. Users below the age of 18 may use the App only with the written acknowledgment or consent of a parent or legal guardian, who agrees to be bound by our Terms and this Privacy Policy on behalf of the minor.
+
+We do not knowingly collect personal information from children under 18 without verifiable parental consent. If you believe we have collected information from a minor without appropriate consent, please contact us immediately at support@hestiastay.in, and we will take steps to delete such information.
 
 ---
 
@@ -235,7 +257,7 @@ The App may contain links to third-party websites or services. We are not respon
 
 ## 9. International Data Transfers
 
-If you access the App from outside India, your information may be transferred to and processed in India. By using the App, you consent to this transfer and processing.
+All data is primarily stored and processed on **Microsoft Azure** servers located in **India**. If you access the App from outside India, your information may be transferred to and processed in India. By using the App, you consent to this transfer and processing in accordance with applicable data protection laws.
 
 ---
 
@@ -270,30 +292,44 @@ Your continued use of the App after changes indicates your acceptance of the upd
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**Email:** support@hostelrs.com
-
-
+| | |
+|---|---|
+| **Company Name** | HEETIA TECHNOLOGIES LLP (Brand: HestiaStay) |
+| **Email** | support@hestiastay.in |
+| **Phone** | 7981619508 |
+| **Customer Support Hours** | 9 AM - 8 PM IST |
+| **Privacy Inquiries** | support@hestiastay.in |
 
 **Response Time:** We aim to respond to all privacy-related inquiries within 7 business days.
 
 ---
 
+## 13. Grievance Officer
 
+In accordance with the **Digital Personal Data Protection Act, 2023** and the **Information Technology Act, 2000**, the contact details of the Grievance Officer are provided below:
 
-**Working Hours:** Monday to Friday, 10:00 AM to 6:00 PM IST
+| | |
+|---|---|
+| **Name** | Naresh Muthumula |
+| **Email** | support@hestiastay.in |
+| **Response Time** | Within 7 business days of receipt of complaint |
+
+If you have any complaints or concerns regarding the processing of your personal data, you may contact the Grievance Officer. If your complaint is not resolved to your satisfaction, you may approach the **Data Protection Board of India** as established under the DPDPA 2023.
 
 ---
 
 ## 14. Consent
 
-By downloading, installing, or using Hostler, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree, please uninstall the App and discontinue use.
+By downloading, installing, or using HestiaStay, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree, please uninstall the App and discontinue use.
+
+You may withdraw your consent at any time by contacting us at support@hestiastay.in or by deleting your account through the App. Withdrawal of consent will not affect the lawfulness of processing carried out prior to such withdrawal.
 
 ---
 
+## 15. Governing Law
 
+This Privacy Policy is governed by and construed in accordance with the **laws of India**, including the **Digital Personal Data Protection Act, 2023**, the **Information Technology Act, 2000**, and applicable rules thereunder. Any disputes arising under this Privacy Policy shall be subject to the exclusive jurisdiction of the courts in **Hyderabad, India**.
 
-*This Privacy Policy is governed by the laws of India.*
+---
 
-
-Request that their account and associated data is deleted
-https://docs.google.com/forms/d/19pV_kxXA76E9bFtx6EBQifGlPPUwxVjeQkk8M-nAofA/edit?pli=1
+*Last Updated: February 17, 2026*
